@@ -1,4 +1,4 @@
-# Extensions for abstract argumentation
+# Extensions in abstract argumentation
 This repository is made to document the program that was used to generate admissible, complete, preferred, stable and grounded extensions for abstract argumentation, these were implemented so that they match the definition given by Dungh (1995). Furthermore the repository also includes the means of generating data about the extensions as well as the further processing of the data.
 
 **It is not recommend to use this script for  larger graphs, as this script scales poorly.**
